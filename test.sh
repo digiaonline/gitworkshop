@@ -1,2 +1,2 @@
-echo aamullinen
+echo aamulypsy
 exit 1
