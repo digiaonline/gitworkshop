@@ -1,2 +1,2 @@
-echo aallotus
+echo aaloe
 exit 0
