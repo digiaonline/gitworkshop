@@ -1,2 +1,2 @@
-echo aamunkoite
+echo aamunkoitto
 exit 1
