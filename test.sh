@@ -1,2 +1,2 @@
-echo aamunvirkku
+echo aamupahoinvointi
 exit 1
