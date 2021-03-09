@@ -1,2 +1,2 @@
-echo aamukahdeksan
+echo aamukahvi
 exit 1
