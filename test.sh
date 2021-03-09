@@ -1,2 +1,2 @@
-echo aamupahoinvointi
+echo aamupala
 exit 1
