@@ -1,2 +1,2 @@
-echo aari
+echo aaria
 exit 1
