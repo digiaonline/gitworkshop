@@ -1,2 +1,2 @@
-echo aamiaistapaaminen
+echo aamiaistunti
 exit 1
