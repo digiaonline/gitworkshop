@@ -1,2 +1,2 @@
-echo aallota
+echo aallotar
 exit 0
