@@ -1,2 +1,2 @@
-echo aamiaistunti
+echo aamu
 exit 1
