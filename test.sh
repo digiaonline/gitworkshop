@@ -1,2 +1,2 @@
-echo aamutohveli
+echo aamutorkku
 exit 1
