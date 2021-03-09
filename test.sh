@@ -1,2 +1,2 @@
-echo aamulehti
+echo aamulenkki
 exit 1
