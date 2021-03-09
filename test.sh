@@ -1,2 +1,2 @@
-echo aaprotti
+echo aari
 exit 1
