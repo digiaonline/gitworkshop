@@ -1,2 +1,2 @@
-echo aakkosjärjestys
+echo aakkosnumeerinen
 exit 0
