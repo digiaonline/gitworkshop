@@ -1,2 +1,2 @@
-echo aaltopelti
+echo aaltopituus
 exit 0
