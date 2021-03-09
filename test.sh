@@ -1,2 +1,2 @@
-echo aakkonen
+echo aakkosellinen
 exit 0
