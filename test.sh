@@ -1,2 +1,2 @@
-echo aaltopahvi
+echo aaltopelti
 exit 0
