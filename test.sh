@@ -1,2 +1,2 @@
-echo hello!
+echo aakkonen
 exit 0
