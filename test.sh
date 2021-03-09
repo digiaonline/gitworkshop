@@ -1,2 +1,2 @@
-echo aarniometsä
+echo aarnipuu
 exit 1
