@@ -1,2 +1,2 @@
-echo aamuvuoro
+echo aamuyö
 exit 1
