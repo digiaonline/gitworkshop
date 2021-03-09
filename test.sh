@@ -1,2 +1,2 @@
-echo aamupesu
+echo aamupuoli
 exit 1
