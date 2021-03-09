@@ -1,2 +1,2 @@
-echo aamuateria
+echo aamuhartaus
 exit 1
