@@ -1,2 +1,2 @@
-echo aarniohauta
+echo aarniometsä
 exit 1
