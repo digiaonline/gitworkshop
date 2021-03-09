@@ -1,2 +1,2 @@
-echo aamiaismajoitus
+echo aamiaistapaaminen
 exit 1
