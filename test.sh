@@ -1,2 +1,2 @@
-echo aallokas
+echo aallokko
 exit 0
