@@ -1,2 +1,2 @@
-echo aaltoilla
+echo aaltoilu
 exit 0
