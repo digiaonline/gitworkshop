@@ -1,2 +1,2 @@
-echo aarre
+echo aarreaitta
 exit 1
