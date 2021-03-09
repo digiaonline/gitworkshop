@@ -1,2 +1,2 @@
-echo aaltoalue
+echo aaltoenergia
 exit 0
