@@ -1,2 +1,2 @@
-echo aamukaste
+echo aamukylmä
 exit 1
