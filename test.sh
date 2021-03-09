@@ -1,2 +1,2 @@
-echo aaltoilu
+echo aaltolevy
 exit 0
