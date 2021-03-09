@@ -1,2 +1,2 @@
-echo aallottaa
+echo aallotus
 exit 0
