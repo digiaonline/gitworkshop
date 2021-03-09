@@ -1,2 +1,2 @@
-echo aaltoviiva
+echo aaltovoimala
 exit 0
