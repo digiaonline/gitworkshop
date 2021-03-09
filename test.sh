@@ -1,2 +1,2 @@
-echo aamuvirkku
+echo aamuvoimistelu
 exit 1
