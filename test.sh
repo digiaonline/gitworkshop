@@ -1,2 +1,2 @@
-echo aalto
+echo aaltoallas
 exit 0
