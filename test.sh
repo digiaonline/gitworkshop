@@ -1,2 +1,2 @@
-echo aamuvartio
+echo aamuvirkku
 exit 1
