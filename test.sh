@@ -1,2 +1,2 @@
-echo aamuyö
+echo aapa
 exit 1
