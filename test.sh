@@ -1,2 +1,2 @@
-echo aapa
+echo aapasuo
 exit 1
