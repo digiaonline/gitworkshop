@@ -1,2 +1,2 @@
-echo aamuaskare
+echo aamuateria
 exit 1
