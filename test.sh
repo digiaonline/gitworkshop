@@ -1,2 +1,2 @@
-echo aakkosto
+echo aakkostus
 exit 0
