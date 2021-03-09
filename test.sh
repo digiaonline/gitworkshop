@@ -1,2 +1,2 @@
-echo aamutuimaan
+echo aamutähti
 exit 1
