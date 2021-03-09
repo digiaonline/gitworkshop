@@ -1,2 +1,2 @@
-echo aamen
-exit 0
+echo aamiainen
+exit 1
