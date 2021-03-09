@@ -1,2 +1,2 @@
-echo aallonpohja
+echo aallota
 exit 0
