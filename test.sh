@@ -1,2 +1,2 @@
-echo aakkosellinen
+echo aakkosellisesti
 exit 0
