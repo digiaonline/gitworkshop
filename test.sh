@@ -1,2 +1,2 @@
-echo aaltolevy
+echo aaltoliike
 exit 0
