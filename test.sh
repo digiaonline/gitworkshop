@@ -1,2 +1,2 @@
-echo aaltosulku
+echo aaltosulkumerkki
 exit 0
