@@ -1,2 +1,2 @@
-echo aaria
+echo aarnialue
 exit 1
