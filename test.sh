@@ -1,2 +1,2 @@
-echo aakkosnumeerinen
+echo aakkostaa
 exit 0
