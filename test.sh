@@ -1,2 +1,2 @@
-echo aarnihauta
+echo aarnihonka
 exit 1
