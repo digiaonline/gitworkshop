@@ -1,2 +1,2 @@
-echo aallonharja
+echo aallonmurtaja
 exit 0
