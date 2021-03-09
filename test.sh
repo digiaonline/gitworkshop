@@ -1,2 +1,2 @@
-echo aamuisin
+echo aamujumalanpalvelus
 exit 1
