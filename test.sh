@@ -1,2 +1,2 @@
-echo aarnipuu
+echo aarnituli
 exit 1
