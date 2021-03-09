@@ -1,2 +1,2 @@
-echo aarpora
+echo aarre
 exit 1
