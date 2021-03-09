@@ -1,2 +1,2 @@
-echo aamukampa
+echo aamukaste
 exit 1
