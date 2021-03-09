@@ -1,2 +1,2 @@
-echo aamunsarastus
+echo aamuntorkku
 exit 1
