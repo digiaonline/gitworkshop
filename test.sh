@@ -1,2 +1,2 @@
-echo aaltosulje
+echo aaltosulku
 exit 0
