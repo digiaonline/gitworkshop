@@ -1,2 +1,2 @@
-echo aaltosulkumerkki
+echo aaltoviiva
 exit 0
