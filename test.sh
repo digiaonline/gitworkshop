@@ -1,2 +1,2 @@
-echo aaloe
+echo aalto
 exit 0
