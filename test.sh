@@ -1,2 +1,2 @@
-echo aallotar
+echo aallottaa
 exit 0
