@@ -1,2 +1,2 @@
-echo aamu-unisuus
+echo aamu-uutiset
 exit 1
