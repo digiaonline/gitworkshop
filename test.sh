@@ -1,2 +1,2 @@
-echo aamuntorkku
+echo aamunvirkku
 exit 1
