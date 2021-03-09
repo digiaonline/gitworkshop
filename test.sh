@@ -1,2 +1,2 @@
-echo aaltoliike
+echo aaltopahvi
 exit 0
