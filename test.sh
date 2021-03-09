@@ -1,2 +1,2 @@
-echo aamupäivisin
+echo aamupäivä
 exit 1
