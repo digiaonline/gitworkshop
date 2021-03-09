@@ -1,2 +1,2 @@
-echo aapiskirja
+echo aapiskukko
 exit 1
