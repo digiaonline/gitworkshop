@@ -1,2 +1,2 @@
-echo aaltovoimala
+echo aamen
 exit 0
