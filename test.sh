@@ -1,2 +1,2 @@
-echo aapiskukko
+echo aaprotti
 exit 1
