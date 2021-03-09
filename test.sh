@@ -1,2 +1,2 @@
-echo aarnio
+echo aarniohauta
 exit 1
