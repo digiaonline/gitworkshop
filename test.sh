@@ -1,2 +1,2 @@
-echo aamujumalanpalvelus
+echo aamujuna
 exit 1
