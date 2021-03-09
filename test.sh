@@ -1,2 +1,2 @@
-echo aalloittainen
+echo aalloittaisuus
 exit 0
