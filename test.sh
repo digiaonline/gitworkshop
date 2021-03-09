@@ -1,2 +1,2 @@
-echo aamurusko
+echo aamuruuhka
 exit 1
