@@ -1,2 +1,2 @@
-echo aamuruuhka
+echo aamusella
 exit 1
