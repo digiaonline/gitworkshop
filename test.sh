@@ -1,2 +1,2 @@
-echo aaroninparta
+echo aarpora
 exit 1
