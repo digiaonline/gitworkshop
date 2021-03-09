@@ -1,2 +1,2 @@
-echo aamujuna
+echo aamukahdeksan
 exit 1
