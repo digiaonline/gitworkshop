@@ -1,2 +1,2 @@
-echo aaltopituus
+echo aaltosulje
 exit 0
