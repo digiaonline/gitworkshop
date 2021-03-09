@@ -1,2 +1,2 @@
-echo aallonmurtaja
+echo aallonpituus
 exit 0
