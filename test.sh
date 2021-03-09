@@ -1,2 +1,2 @@
-echo aamulämpö
+echo aamunavaus
 exit 1
