@@ -1,2 +1,2 @@
-echo aarnialue
+echo aarnihauta
 exit 1
