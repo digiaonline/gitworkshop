@@ -1,2 +1,2 @@
-echo aarnituli
+echo aarnivalkea
 exit 1
