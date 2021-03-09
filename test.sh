@@ -1,2 +1,2 @@
-echo aamuvarhainen
+echo aamuvartio
 exit 1
