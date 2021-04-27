@@ -3,3 +3,8 @@ eggs
 bananas
 milk
 yoghurts
+
+PARTY GROCERIES
+beer
+snacks
+sparkling wine
