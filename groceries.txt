@@ -8,3 +8,7 @@ PARTY GROCERIES
 beer
 snacks
 sparkling wine
+vodka
+juice
+gin
+tonic
