@@ -1,3 +1,5 @@
 carrots
 eggs
 bananas
+milk
+yoghurts
